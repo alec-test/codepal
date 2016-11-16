@@ -2,6 +2,7 @@ RUNNING ON WEBSITE
 -------------
 http://stephenhu.me/codepal/index.html
 
+
 RUNNING LOCALLY
 -------------
 Only Chrome is officially supported.
